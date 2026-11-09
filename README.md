@@ -6,7 +6,7 @@ An interactive bench of *stopped flue pipes* — tubes closed at the foot and op
 
 Open [`index.html`](index.html) in any modern browser. It is one self-contained file — no network, no build step, no storage — so it works offline and inside a sandboxed `iframe`.
 
-Try it without cloning: <https://rawcdn.githack.com/dniku/stem/main/index.html>
+Try it without cloning: <https://rawcdn.githack.com/thaumapolis/stem/main/index.html>
 (verified byte-identical to `index.html`; that's somebody else's CDN in front of
 this repo, so treat it as a demo path and the file in the repo as the artifact).
 

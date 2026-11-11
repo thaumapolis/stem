@@ -1,5 +1,7 @@
 # Stem
 
+<!-- Front page image: docs/first-run.png -->
+
 **Cut your own organ pipes, and let the air column decide the pitch.**
 
 An interactive bench of *stopped flue pipes* — tubes closed at the foot and open at the top. Every pipe on screen is a real quarter-wave resonator: its length, its width and the air temperature produce the pitch you hear, computed rather than played back. Nothing is animated and no sound is sampled.

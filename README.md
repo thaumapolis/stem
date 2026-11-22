@@ -1,6 +1,6 @@
 # Stem
 
-<!-- Front page image: docs/first-run.png -->
+<!-- Front page image: docs/overblown.png -->
 
 **Cut your own organ pipes, and let the air column decide the pitch.**
 
